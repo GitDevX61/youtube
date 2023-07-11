@@ -1,0 +1,136 @@
+.p {
+    font-family: Arial;
+  }
+
+  .video-title {
+    font-family: "Arial";
+    font-weight: bold;
+    font-size: 18px;
+    width: 300px;
+    line-height: 24px;
+  }
+
+  .video-stats {
+    font-family: Arial;
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+    margin-top: -10px;
+  }
+
+  .video-author {
+    font-family: Arial;
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+  }
+
+  .video-description {
+    font-family: Arial;
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+    width: 280px;
+    line-height: 22px;
+    margin-bottom: 80px;
+  }
+  .apple-text {
+    font-family: Arial;
+    font-size: 14px;
+    background-color: rgb(227, 65, 64);
+    color: white;
+    text-align: center;
+    padding-top: 18px;
+    padding-bottom: 18px;
+  }
+
+  .shop-link:hover {
+    cursor: pointer;
+    text-decoration: underline;
+  }
+
+  .course {
+    font-family: Verdana;
+    font-size: 30px;
+    font-weight: bold;
+  }
+
+  .beg-pro {
+    font-family: Verdana;
+    font-size: 20px;
+    color: grey;
+    margin-top: -20px;
+  }
+
+  .dev {
+    font-family: Verdana;
+    font-size: 20px;
+  }
+
+  .get-started {
+    background-color: green;
+    color: White;
+    border: none;
+    font-size: 20px;
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .get-started:hover {
+    cursor: pointer;
+  }
+
+  .shopping-text {
+    font-family: Arial;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 30px;
+    text-align: center;
+  }
+
+  .apple-text2 {
+    font-family: Arial;
+    font-size: 20px;
+    text-align: center;
+    margin-top: -10px;
+  }
+
+  .learn-more-text {
+    font-family: Arial;
+    font-size: 20px;
+    text-align: center;
+    margin-top: -5px;
+    color: rgb(59, 59, 212);
+  }
+
+  .price-text {
+    font-family: Arial;
+    font-size: 30px;
+    margin-bottom: 0;
+  }
+
+  .currency {
+    font-size: 20px;
+    color: gray;
+  }
+
+  .price-change-text {
+    font-family: Arial;
+    color: green;
+    margin-top: 10;
+    font-weight: 300;
+  }
+
+  .ah-price {
+    font-family: Arial;
+    margin-top: -5;
+    font-weight: bold;
+  }
+
+  .ah-absolute {
+    color: gray;
+  }
+
+  .ah-percentage {
+    color: red;
+  }
